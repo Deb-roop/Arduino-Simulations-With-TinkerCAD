@@ -2,7 +2,7 @@
 Beginner-friendly Arduino projects with Tinkercad simulations. Ideal for learning the basics of electronics and programming microcontrollers.
 # 🚀 Basic Arduino Projects with TinkerCAD Simulation
 
-This repository contains a collection of beginner-friendly **Arduino projects** designed and simulated using **TinkerCAD**. Each project includes the `.ino` source code along with a link to the corresponding **TinkerCAD simulation**, allowing you to run and test the circuits virtually without any physical components.
+This repository contains a collection of beginner-friendly **Arduino projects** designed and simulated using [**TinkerCAD**](https://www.tinkercad.com/circuits). Each project includes the `.ino` source code along with a link to the corresponding **TinkerCAD simulation**, allowing you to run and test the circuits virtually without any physical components.
 
 ---
 
