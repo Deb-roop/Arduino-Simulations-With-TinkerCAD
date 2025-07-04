@@ -20,7 +20,7 @@ This repository contains a collection of beginner-friendly **Arduino projects** 
 | Project No. | Description              | TinkerCAD Link          |
 |-------------|--------------------------|--------------------------|
 | 01          | Ultrasonic Distance Measurement with Arduino | [LINK](https://www.tinkercad.com/things/8La7gHM5abg-ultrasonic-distance-measurement-with-arduino?sharecode=8NB7g2nOGrTSoRD2fi7qk5l5GRE9G1iKHYV6oxdmMsY)
-
+| 02         |Fire Alarm System using Arduino with Temperature and Gas Sensor | [LINK](https://www.tinkercad.com/things/9L9UolGmUf7-fire-alarm-system-using-arduino-with-temperature-and-gas-sensor-)|
 
 ---
 
