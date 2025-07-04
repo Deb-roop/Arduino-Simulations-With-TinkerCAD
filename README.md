@@ -22,7 +22,7 @@ This repository contains a collection of beginner-friendly **Arduino projects** 
 | 01          | Ultrasonic Distance Measurement with Arduino | [LINK](https://www.tinkercad.com/things/8La7gHM5abg-ultrasonic-distance-measurement-with-arduino?sharecode=8NB7g2nOGrTSoRD2fi7qk5l5GRE9G1iKHYV6oxdmMsY)
 | 02         |Fire Alarm System using Arduino with Temperature and Gas Sensor | [LINK](https://www.tinkercad.com/things/9L9UolGmUf7-fire-alarm-system-using-arduino-with-temperature-and-gas-sensor-)|
 | 03         |Light Intensity Measurement using LDR Sensor and Arduino  | [LINK](https://www.tinkercad.com/things/gbvuNJjMxa6-light-intensity-measurement-using-ldr-sensor-and-arduino-)|
-
+| 04         |Password Protected Security System using Arduino, Keypad, LED, and Piezo Buzzer on TinkerCAD.  | [LINK](https://www.tinkercad.com/things/fdCWKI0tppn-password-protected-security-system-)|
 ---
 
 ## 🛠 Tools Used
