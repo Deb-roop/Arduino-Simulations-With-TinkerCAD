@@ -26,6 +26,9 @@ This project demonstrates how to interface a **PIR Motion Sensor** with an **Ard
 | PIR VCC  | 5V          |
 | PIR GND  | GND         |
 
+<img width="773" height="669" alt="image" src="https://github.com/user-attachments/assets/9b485d81-3733-4790-868e-5803f515a4ab" />
+
+
 ---
 
 ## 🧠 Code Explanation
